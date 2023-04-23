@@ -11,6 +11,8 @@ const PostRequest = () => {
     console.log(name, email);
   };
 
+  const fet
+
   return (
     <section>
       <h2 className='text-center'>post request</h2>
